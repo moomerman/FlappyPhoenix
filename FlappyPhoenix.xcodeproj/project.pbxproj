@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		79FDF9BA236B5231005CBBC4 /* FlappyPhoenix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyPhoenix.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		79FDF9BA236B5231005CBBC4 /* Flappy Phoenix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flappy Phoenix.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		79FDF9BD236B5231005CBBC4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79FDF9BF236B5231005CBBC4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		79FDF9C1236B5231005CBBC4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		79FDF9BB236B5231005CBBC4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				79FDF9BA236B5231005CBBC4 /* FlappyPhoenix.app */,
+				79FDF9BA236B5231005CBBC4 /* Flappy Phoenix.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -92,7 +92,7 @@
 			);
 			name = FlappyPhoenix;
 			productName = FlappyPhoenix;
-			productReference = 79FDF9BA236B5231005CBBC4 /* FlappyPhoenix.app */;
+			productReference = 79FDF9BA236B5231005CBBC4 /* Flappy Phoenix.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.moocode.FlappyPhoenix;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Flappy Phoenix";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -314,7 +314,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.moocode.FlappyPhoenix;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Flappy Phoenix";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
